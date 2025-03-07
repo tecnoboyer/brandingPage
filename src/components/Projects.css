@@ -1,0 +1,29 @@
+.projects {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  .projects h2 {
+    margin-bottom: 10px;
+  }
+  .projects ul {
+    list-style: none;
+    padding: 0;
+  }
+  .projects li {
+    margin-bottom: 20px;
+  }
+  .projects h3 {
+    margin-bottom: 5px;
+  }
+  .projects p {
+    margin-bottom: 5px;
+  }
+  .projects a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  .projects a:hover {
+    text-decoration: underline;
+  }

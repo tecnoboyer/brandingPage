@@ -1,0 +1,13 @@
+.about {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  .about h2 {
+    margin-bottom: 10px;
+  }
+  .about p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
