@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.kevintrinh.dev" target="_blank">
+  <a href="http://www.tecnoboyer.com" target="_blank">
     <img alt="Fav Icon Png" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/readme-icon.png" width="100"/>
   </a>
 </p>
 <h1 align="center">
-  www.kevintrinh.dev - v2
+  www.tecnoboyer.com - v1
 </h1>
 <p align="center">
   A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.
@@ -37,25 +37,16 @@ Reactfolio is a modern, revamped, and responsive portfolio website built using R
 
 ## 📌 Important Information
 
-This project recycles components from my old [Portfolio-V1](https://github.com/KevinTrinh1227/Trinh), while also adopting a new UI and theme inspired by this [DEMO](https://steam-portfolio-demo.vercel.app/). Project native version: Node v16.20.2, built on Linux OS (Ubuntu 22.04 LTS).
+Project native version: Node v16.20.2, built on Linux OS (Ubuntu 22.04 LTS).
 
-This project is a revamped version of my [Portfolio-V1](https://kevintrinh-v1.netlify.app). It comes with numerous updates including functionality, API integration, Significant UI changes, bug fixes, and much more! This project is fully open source and I encourage anyone interested, to contribute to the project as well. This iteration continues the simplistic approach to the same "one page one scroll" design philosophy as V1.
+ This project is fully open source and I encourage anyone interested, to contribute to the project as well. This iteration continues the simplistic approach to the same "one page one scroll" design philosophy as V1.
 
 For easy use, I linked every element that makes up the app to `content.json` to eliminate having to open each component file to change content data, so you can edit everything seamlessly from one file. Refer to the corresponding JS file for more information on how to manipulate a specific section within the JSON.
 
 ## 🛠 Installation & setup - [Click here for tutorial video](https://youtu.be/CxXi6HXS5Os?si=ctYsLMjpYPKekVmu)
 
-1. Clone repository OR download the [latest release](https://github.com/KevinTrinh1227/Reactfolio/releases)
 
-   ```sh
-   git clone https://github.com/KevinTrinh1227/Reactfolio
-   ```
-
-   ```sh
-   cd Reactfolio
-   ```
-
-2. OPTIONAL: Use the correct Node version using [NVM](https://github.com/nvm-sh/nvm) (Node v16.20.2)
+1. OPTIONAL: Use the correct Node version using [NVM](https://github.com/nvm-sh/nvm) (Node v16.20.2)
 
    ```sh
    nvm install 16
@@ -65,7 +56,7 @@ For easy use, I linked every element that makes up the app to `content.json` to 
    nvm alias default 16
    ```
 
-3. Install the dependencies using npm or yarn
+2. Install the dependencies using npm or yarn
 
    ```sh
    npm install
@@ -75,7 +66,7 @@ For easy use, I linked every element that makes up the app to `content.json` to 
    yarn install
    ```
 
-4. Start the development server using npm or yarn
+3. Start the development server using npm or yarn
 
    ```sh
    npm start

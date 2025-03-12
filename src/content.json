@@ -1,13 +1,13 @@
 {
   "general": {
-    "first_name": "Kevin",
-    "middle_name": "Huy",
-    "last_name": "Trinh",
+    "first_name": "Leonardo",
+    "middle_name": "Boyer",
+    "last_name": "Tecnoboyer",
     "navbar_social_links": {
-      "github": "https://github.com/KevinTrinh1227",
+      "github": "https://github.com/tecnoboyer",
       "resume": "/resume",
-      "linkedin": "https://www.linkedin.com/in/kevintrinh1227",
-      "email": "kevintrinh1227@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/leonardo-boyer-97064a30/",
+      "email": "tecnoboyer@gmail.com"
     }
   },
   "repo_stats": {
@@ -21,15 +21,14 @@
     "section": {
       "enable_section": true
     },
-    "main_header": "Hello, Kevin here.",
-    "main_subtitle": "I like to build stuff occasionally.",
+    "main_header": "Hello, Tecnoboyer here here.",
+    "main_subtitle": "I like to create Things.",
     "intro_bio": [
-      "I'm currently a Freshman at the University of Houston,",
-      "pursuing a Bachelor of Science in Computer Science.",
-      "I have a profound interest in machine learning, operating",
-      "systems, full-stack development, and everything in between."
+      "Enthusiastic Creator of Innovative Solutions,",
+      " Adaptable to Any Context, Transforming Visions into Reality",
+      " through Technology and Human Interactions"
     ],
-    "email_button": "Say hello to me!"
+    "email_button": "Let's talk!"
   },
   "about_me": {
     "section": {
@@ -61,8 +60,8 @@
       "description": "Courses that I have completed or am on track to complete. Current GPA: 3.24"
     },
     "general": {
-      "school": "St. Mary's University",
-      "degree": "Bachelor of Science in Computer Science",
+      "school": "Universidad Central de Venezuela",
+      "degree": "Bachelor of Science in Electrica Engineering",
       "start_year": 2021,
       "end_year": 2025
     },
