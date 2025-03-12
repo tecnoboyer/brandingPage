@@ -1,5 +1,4 @@
 import React from "react";
-import RepoStats from "./components/RepoStats";
 import Navbar from "./components/Navbar";
 import Linkbar from "./components/Linkbar";
 import Intro from "./components/Intro";
@@ -30,7 +29,6 @@ function App() {
           element={
             <div>
               <Navbar />
-              <RepoStats />
               <Linkbar />
               {intro_screen.section.enable_section && <Intro />}
               {about_me.section.enable_section && <About />}
