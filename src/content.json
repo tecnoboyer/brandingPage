@@ -39,17 +39,17 @@
     },
     "headShotUrl": "../assets/portrait.png",
     "bio": [
-      "I am currently an undergraduate student at the University of Houston pursuing a Bachelor of Science in Computer Science. I recently completed an internship at the McNair Research Program at STMU, where I conducted research on high-level to low-level language translation under the guidance of my mentor, Arthur Hanna, Ph.D. Some of my curent goals include gaining practical experience and cultivating valuable connections that will contribute to my personal and professional growth.",
-      "I have a profound interest in various types of software development, including machine learning, operating systems, and full-stack development. I'm a huge enthusiast of desk setups and PCs. In my free time, I enjoy playing and analyzing chess games, thrifting, playing video games, strumming my guitar, and trying local foods."
+      "Currently, I am expanding my skillset by mastering AI integration. Having successfully spearheaded the development of AI features in collaboration with internal development teams, I am now focusing on integrating these advancements with third-party platforms to drive innovation and scalability.",
+      "I am deeply passionate about creating solutions that drive meaningful impact. My approach goes beyond writing code—it's about seamlessly integrating systems to deliver transformative outcomes and amplify the reach of technological innovations. This passion extends to fields like entertainment, manufacturing, IT, searching, among others."
     ],
     "skills_caption": "Some technologies I've been worked with:",
     "skills": [
       "JavaScript ES6+",
       "React.js & Node.js",
       "Python 3.x",
-      "HTML & CSS",
+      "MQQT",
       "MongoDB & MySQL",
-      "Linux & Windows OS"
+      "Microcontollers/PLC"
     ]
   },
   "academics": {
