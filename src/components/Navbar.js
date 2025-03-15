@@ -36,7 +36,7 @@ const Navbar = () => {
       <Fade cascade damping={0.2} triggerOnce={true}>
         <ul>
           <li>
-            <a href="https://www.kevintrinh.dev">/Home</a>
+            <a href="http://18.189.12.52:8080/">/Home</a>
           </li>
           {sections.map((section) => {
             return section.enable ? (
