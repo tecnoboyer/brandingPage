@@ -39,17 +39,17 @@
     },
     "headShotUrl": "../assets/portrait.png",
     "bio": [
-      "I am currently an undergraduate student at the University of Houston pursuing a Bachelor of Science in Computer Science. I recently completed an internship at the McNair Research Program at STMU, where I conducted research on high-level to low-level language translation under the guidance of my mentor, Arthur Hanna, Ph.D. Some of my curent goals include gaining practical experience and cultivating valuable connections that will contribute to my personal and professional growth.",
-      "I have a profound interest in various types of software development, including machine learning, operating systems, and full-stack development. I'm a huge enthusiast of desk setups and PCs. In my free time, I enjoy playing and analyzing chess games, thrifting, playing video games, strumming my guitar, and trying local foods."
+      "Currently, I am expanding my skillset by mastering AI integration. Having successfully spearheaded the development of AI features in collaboration with internal development teams, I am now focusing on integrating these advancements with third-party platforms to drive innovation and scalability.",
+      "I am deeply passionate about creating solutions that drive meaningful impact. My approach goes beyond writing code—it's about seamlessly integrating systems to deliver transformative outcomes and amplify the reach of technological innovations. This passion extends to fields like entertainment, manufacturing, IT, searching, among others."
     ],
     "skills_caption": "Some technologies I've been worked with:",
     "skills": [
       "JavaScript ES6+",
       "React.js & Node.js",
       "Python 3.x",
-      "HTML & CSS",
+      "MQQT",
       "MongoDB & MySQL",
-      "Linux & Windows OS"
+      "Microcontollers/PLC"
     ]
   },
   "academics": {
@@ -201,26 +201,30 @@
     },
     "experience_items": [
       {
-        "organization": "McNair STMU",
-        "title": "Research Intern",
-        "start_date": "May 2023",
-        "end_date": " July 2023",
+        "organization": "Johnson Electric",
+        "title": "Subject Matter Exper",
+        "start_date": "August 2023",
+        "location":"Ancaster, Ontario, Canada",
+        "end_date": " January 2025",
         "description": [
-          "Conducted thorough undergraduate research on compiler design and high-level to low-level language translation.",
-          "Developed a lightweight translator by building a parser, lexer, and semantic analyzer module to convert custom code into assembly language for a virtual machine.",
-          "Collaborated closely with mentors to refine development skills and deepen understanding of language design principles and compiler design methodologies."
+          "Initiated and managed lean manufacturing projects, ensuring adherence to timelines and achieving significant improvements in shop floor efficiency.",
+          "Developed Lean audits and scheduling, enhancing the auditing system and conducting 89 audits.",
+          "Implemented visual management standards and 5S principles, resulting in streamlined processes and improved standards." 
         ]
       },
       {
-        "organization": "NP Engagement",
-        "title": "Web Developer Intern",
-        "start_date": "August 2022",
-        "end_date": "November 2022",
+        "organization": "WarnerBros and Discovery",
+        "title": "Senior Software Developer",
+        "start_date": "August 2019",
+        "location":"Atlanta, Georgia, USA (remote)",
+        "end_date": "April 2023",
         "description": [
-          "Maintained and updated numerous partner websites and online services, ensuring peak performance and relevance with proficiency in HTML, CSS, and JavaScript.",
-          "Integrated custom API scripts, optimized websites to fulfill unique client requirements and enhance user experience.",
-          "Utilized my proficiency in WordPress, crafting visually stunning and highly functional platforms tailored to precise client specifications, ensuring optimal user engagement.",
-          "Drove tangible business growth and significantly boosted client visibility and traffic by orchestrating cross-functional teamwork, applying my technical skills and strategic insights."
+        "Created data driving to export data from Mongo to Dalton and successfully migrated 1.2M users to the new confederated Data Shore.",
+        "Enhanced the current offering by adding new payment options, new provider enrollment, and creating containers for various country laws.",
+        "Collaborated with global departments to develop software solutions, integrated into Scrum ceremonies, and delivered high-quality software applications.",
+        "Developed critical software fragments for a CRM, integrated financial manager with SAP, and designed data drive for customer behavior analysis.",
+        "Optimized backend operations, integrated payment gateway for debit card recurrence, and developed an employee management integration system."
+          
         ]
       }
     ]
