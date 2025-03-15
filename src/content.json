@@ -201,26 +201,30 @@
     },
     "experience_items": [
       {
-        "organization": "McNair STMU",
-        "title": "Research Intern",
-        "start_date": "May 2023",
-        "end_date": " July 2023",
+        "organization": "Johnson Electric",
+        "title": "Subject Matter Exper",
+        "start_date": "August 2023",
+        "location":"Ancaster, Ontario, Canada",
+        "end_date": " January 2025",
         "description": [
-          "Conducted thorough undergraduate research on compiler design and high-level to low-level language translation.",
-          "Developed a lightweight translator by building a parser, lexer, and semantic analyzer module to convert custom code into assembly language for a virtual machine.",
-          "Collaborated closely with mentors to refine development skills and deepen understanding of language design principles and compiler design methodologies."
+          "Initiated and managed lean manufacturing projects, ensuring adherence to timelines and achieving significant improvements in shop floor efficiency.",
+          "Developed Lean audits and scheduling, enhancing the auditing system and conducting 89 audits.",
+          "Implemented visual management standards and 5S principles, resulting in streamlined processes and improved standards." 
         ]
       },
       {
-        "organization": "NP Engagement",
-        "title": "Web Developer Intern",
-        "start_date": "August 2022",
-        "end_date": "November 2022",
+        "organization": "WarnerBros and Discovery",
+        "title": "Senior Software Developer",
+        "start_date": "August 2019",
+        "location":"Atlanta, Georgia, USA (remote)",
+        "end_date": "April 2023",
         "description": [
-          "Maintained and updated numerous partner websites and online services, ensuring peak performance and relevance with proficiency in HTML, CSS, and JavaScript.",
-          "Integrated custom API scripts, optimized websites to fulfill unique client requirements and enhance user experience.",
-          "Utilized my proficiency in WordPress, crafting visually stunning and highly functional platforms tailored to precise client specifications, ensuring optimal user engagement.",
-          "Drove tangible business growth and significantly boosted client visibility and traffic by orchestrating cross-functional teamwork, applying my technical skills and strategic insights."
+        "Created data driving to export data from Mongo to Dalton and successfully migrated 1.2M users to the new confederated Data Shore.",
+        "Enhanced the current offering by adding new payment options, new provider enrollment, and creating containers for various country laws.",
+        "Collaborated with global departments to develop software solutions, integrated into Scrum ceremonies, and delivered high-quality software applications.",
+        "Developed critical software fragments for a CRM, integrated financial manager with SAP, and designed data drive for customer behavior analysis.",
+        "Optimized backend operations, integrated payment gateway for debit card recurrence, and developed an employee management integration system."
+          
         ]
       }
     ]
