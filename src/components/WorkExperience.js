@@ -100,6 +100,9 @@ const WorkExperience = () => {
                   {experienceItems[activeJobIndex].organization}
                 </h1>
                 <h4>
+                  {experienceItems[activeJobIndex].location}
+                </h4>
+                <h4>
                   {experienceItems[activeJobIndex].start_date} -{" "}
                   {experienceItems[activeJobIndex].end_date}
                 </h4>
