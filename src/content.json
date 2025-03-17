@@ -202,7 +202,7 @@
     "experience_items": [
       {
         "organization": "Johnson Electric",
-        "title": "Subject Matter Exper",
+        "title": "Subject Matter Expert",
         "start_date": "August 2023",
         "location":"Ancaster, Ontario, Canada",
         "end_date": " January 2025",
@@ -239,69 +239,56 @@
     "project_items": [
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Github-Followers-Bot",
-        "project_name": "STMU Yelp",
-        "description": "Application that showcases popular locations for college students specifically for St. Mary's students. collaborated with an 7 person team.",
+        "api_github_repo_link": "https://api.github.com/tecnoboyer/clima",
+        "project_name": "Weather",
+        "description": "Testing",
         "resources_used": ["JavaScript", "Node.js", "GitHub API"],
         "start_date": "June 2024",
         "end_date": "July 2024",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Github-Followers-Bot",
+            "href": "https://github.com/tecnoboyer/clima",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Github-Followers-Bot/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
         ]
       },
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Hycord-Client",
-        "project_name": "Hycord Client",
-        "description": "Discord.py client that uses Hypixel & PlayerDB APIs to allow users to link and access in-game data. Simply, a versatile Hypixel Discord bot.",
-        "resources_used": ["HTML", "Discord.py", "Hypixel API"],
+        "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/prayconnect",
+        "project_name": "Pray Connections",
+        "description": "Making the pray request find a prayers network  ",
+        "resources_used": ["HTML", "React-native.js"],
         "start_date": "Dec 2022",
         "end_date": "Present",
         "links": [
           {
-            "href": "https://www.hycord.net",
+            "href": "https://ihopkc.org/",
             "icon": "FiExternalLink",
             "data_tooltip": "Information Page"
           },
           {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client",
+            "href": "https://github.com/tecnoboyer/prayconnect",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
-          },
-          {
-            "href": "https://github.com/KevinTrinh1227/Hycord-Client/archive/main.zip",
-            "icon": "FaDownload",
-            "data_tooltip": "Download Project"
           }
         ]
       },
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/repos/KevinTrinh1227/Reactfolio",
-        "project_name": "Reactfolio V2",
+        "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/searchEngine",
+        "project_name": "searchEngine",
         "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
         "resources_used": [
-          "React.js",
-          "NVM",
-          "HTML & CSS",
-          "JavaScript",
-          "HTML",
-          "CSS"
+          "Python",
+          "OpenAI"
+          
         ],
         "start_date": "Sept 2023",
         "end_date": "Present",
         "links": [
           {
-            "href": "https://github.com/KevinTrinh1227/Reactfolio",
+            "href": "https://github.com/tecnoboyer/searchEngine",
             "icon": "FaGithub",
             "data_tooltip": "Visit GitHub Repo"
           }
