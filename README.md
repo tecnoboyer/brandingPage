@@ -7,7 +7,7 @@
   www.tecnoboyer.com - v1
 </h1>
 <p align="center">
-  A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.
+  Technologies-driven professional offering innovative solutions, streamlined project management, and cutting-edge digital expertise to transform your challenges into success.
 </p>
 
 <div align="center">
