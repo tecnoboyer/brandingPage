@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.tecnoboyer.com" target="_blank">
-    <img alt="Fav Icon Png" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/readme-icon.png" width="100"/>
+    <img alt="Fav Icon Png" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/readme-icon.jpg" width="100"/>
   </a>
 </p>
 <h1 align="center">
