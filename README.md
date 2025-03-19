@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://www.tecnoboyer.com" target="_blank">
+  <a href="https://www.tecnoboyer.com" target="_blank">
     <img alt="Fav Icon Png" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/readme-icon.png" width="100"/>
   </a>
 </p>
@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/github/v/release/KevinTrinh1227/Reactfolio.svg" alt="Release badge" />
 </div>
 
-<a href="http://tecnoboyer.com" target="_blank">
+<a href="https://tecnoboyer.com" target="_blank">
    <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/assets/48145892/d5a342d5-3e49-45d1-9028-cabc663ef61a">
 </a>
 
 <details>
   <summary align="center">VIEW MORE PHOTOS HERE</summary>
-    <a href="http://www.tecnoboyer.com" target="_blank">
+    <a href="https://www.tecnoboyer.com" target="_blank">
       <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_1.png">
       <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_2.png">
       <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_3.png">
