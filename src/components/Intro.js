@@ -36,7 +36,7 @@ import { Fade } from "react-awesome-reveal";
 
 const Intro = () => {
   const introContent = contentData.intro_screen;
-  const generalContent = contentData.general;
+  // const generalContent = contentData.general;
 
   const introBio = introContent.intro_bio.map((paragraph) => {
     return <p key={paragraph}>{paragraph}</p>;
@@ -58,7 +58,7 @@ const Intro = () => {
             </Fade>
             <Fade direction="up" triggerOnce={true}>
               <h3>
-                <a href={`mailto:${generalContent.navbar_social_links.email}`}>
+                <a href="http://18.222.220.206:8050/">
                   <FaComment /> {introContent.email_button}
                 </a>
               </h3>
