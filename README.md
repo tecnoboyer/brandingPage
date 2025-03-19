@@ -23,11 +23,11 @@
 <details>
   <summary align="center">VIEW MORE PHOTOS HERE</summary>
     <a href="https://www.tecnoboyer.com" target="_blank">
-      <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_1.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_2.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_3.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_4.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_5.png">
+      <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/tecnoboyer/brandingPage/tree/main/public/assets/screenshot_1.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/tree/main/public/assets/screenshot_2.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/tree/main/public/assets/screenshot_3.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/tree/main/public/assets/screenshot_4.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/tree/main/public/assets/screenshot_5.png">
     </a>
 </details>
 
