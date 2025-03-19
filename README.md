@@ -39,7 +39,7 @@ Project native version: Node v16.20.2, built on Linux OS (Ubuntu 22.04 LTS).
 
 For easy use, I linked every element that makes up the app to `content.json` to eliminate having to open each component file to change content data, so you can edit everything seamlessly from one file. Refer to the corresponding JS file for more information on how to manipulate a specific section within the JSON.
 
-## 🛠 Installation & setup - [Click here for tutorial video](https://youtu.be/CxXi6HXS5Os?si=ctYsLMjpYPKekVmu)
+## 🛠 Installation & setup - [Click here for tutorial video](https://www.youtube.com/watch?v=uvV4RWsSQPU)
 
 
 1. OPTIONAL: Use the correct Node version using [NVM](https://github.com/nvm-sh/nvm) (Node v16.20.2)
