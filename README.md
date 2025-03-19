@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="http://www.tecnoboyer.com" target="_blank">
-    <img alt="Fav Icon Png" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/readme-icon.png" width="100"/>
+  <a href="https://www.tecnoboyer.com" target="_blank">
+    <img alt="Fav Icon Png" src="https://github.com/tecnoboyer/brandingPage/blob/main/public/assets/readme-icon.png" width="100"/>
   </a>
 </p>
 <h1 align="center">
   www.tecnoboyer.com - v1
 </h1>
 <p align="center">
-  A modern solution for professionally showcasing skills, projects, and experience. Built with React.js.
+  Technologies-driven professional offering innovative solutions, streamlined project management, and cutting-edge digital expertise to transform your challenges into success.
 </p>
 
 <div align="center">
@@ -16,18 +16,14 @@
   <img src="https://img.shields.io/github/v/release/KevinTrinh1227/Reactfolio.svg" alt="Release badge" />
 </div>
 
-<a href="http://tecnoboyer.com" target="_blank">
-   <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/assets/48145892/d5a342d5-3e49-45d1-9028-cabc663ef61a">
-</a>
-
 <details>
   <summary align="center">VIEW MORE PHOTOS HERE</summary>
-    <a href="http://www.tecnoboyer.com" target="_blank">
-      <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_1.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_2.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_3.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_4.png">
-      <img alt="Screen Shot" src="https://github.com/KevinTrinh1227/Reactfolio/blob/master/public/assets/screenshot_5.png">
+    <a href="https://www.tecnoboyer.com" target="_blank">
+      <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/tecnoboyer/brandingPage/blob/main/public/assets/screenshot_1.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/blob/main/public/assets/screenshot_2.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/blob/main/public/assets/screenshot_3.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/blob/main/public/assets/screenshot_4.png">
+      <img alt="Screen Shot" src="https://github.com/tecnoboyer/brandingPage/blob/main/public/assets/screenshot_5.png">
     </a>
 </details>
 
@@ -43,7 +39,7 @@ Project native version: Node v16.20.2, built on Linux OS (Ubuntu 22.04 LTS).
 
 For easy use, I linked every element that makes up the app to `content.json` to eliminate having to open each component file to change content data, so you can edit everything seamlessly from one file. Refer to the corresponding JS file for more information on how to manipulate a specific section within the JSON.
 
-## 🛠 Installation & setup - [Click here for tutorial video](https://youtu.be/CxXi6HXS5Os?si=ctYsLMjpYPKekVmu)
+## 🛠 Installation & setup - [Click here for tutorial video](https://www.youtube.com/watch?v=uvV4RWsSQPU)
 
 
 1. OPTIONAL: Use the correct Node version using [NVM](https://github.com/nvm-sh/nvm) (Node v16.20.2)
