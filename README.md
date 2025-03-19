@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/github/v/release/KevinTrinh1227/Reactfolio.svg" alt="Release badge" />
 </div>
 
-<a href="https://tecnoboyer.com" target="_blank">
-   <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/assets/screenshot_1.png">
-</a>
+
 
 <details>
   <summary align="center">VIEW MORE PHOTOS HERE</summary>
