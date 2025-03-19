@@ -17,7 +17,7 @@
 </div>
 
 <a href="https://tecnoboyer.com" target="_blank">
-   <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/assets/48145892/d5a342d5-3e49-45d1-9028-cabc663ef61a">
+   <img alt="Screen Shot from 10-03-2023 of landing page." src="https://github.com/KevinTrinh1227/Reactfolio/assets/screenshot_1.png">
 </a>
 
 <details>
