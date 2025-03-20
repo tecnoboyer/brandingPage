@@ -153,42 +153,6 @@
             "credits": 3.0
           }
         ]
-      },
-      {
-        "year": 2023,
-        "semester": "Spring",
-        "courses": [
-          {
-            "abbreviation": "CS 2350",
-            "name": "Computer Architecture",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 2323",
-            "name": "Object Oritented Programming II",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "CS 4375",
-            "name": "Advanced Topics (Python Data Analytics)",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "MT 2323",
-            "name": "Discrete Math Structures",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "TH 1301",
-            "name": "Introduction to Thelogy",
-            "credits": 3.0
-          },
-          {
-            "abbreviation": "AC 2301",
-            "name": "Financial Accounting",
-            "credits": 3.0
-          }
-        ]
       }
     ]
   },
@@ -239,12 +203,12 @@
     "project_items": [
       {
         "use_git_api": true,
-        "api_github_repo_link": "https://api.github.com/tecnoboyer/clima",
-        "project_name": "Weather",
-        "description": "Testing",
+        "api_github_repo_link": "https://github.com/tecnoboyer/homeEnergy",
+        "project_name": "Energy Efficiency",
+        "description": "Lifestile",
         "resources_used": ["JavaScript", "Node.js", "GitHub API"],
-        "start_date": "June 2024",
-        "end_date": "July 2024",
+        "start_date": "June 2009",
+        "end_date": "Currently",
         "links": [
           {
             "href": "https://github.com/tecnoboyer/clima",
