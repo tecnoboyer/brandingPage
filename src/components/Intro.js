@@ -58,7 +58,7 @@ const Intro = () => {
             </Fade>
             <Fade direction="up" triggerOnce={true}>
               <h3>
-                <a href="http://18.222.220.206:8050/">
+                <a href="http://3.23.131.111:8050/">
                   <FaComment /> {introContent.email_button}
                 </a>
               </h3>
