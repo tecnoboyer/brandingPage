@@ -29,7 +29,7 @@ const Intro = () => {
             <Fade direction="up" triggerOnce={true}>
               <h3>
                 <a 
-                  href="http://3.23.131.111:8050/" 
+                  href="http://3.16.57.48:8050/" 
                   style={{
                     display: "inline-flex",
                     alignItems: "center",
