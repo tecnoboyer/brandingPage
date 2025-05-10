@@ -204,7 +204,8 @@
       {
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tecnoboyer/homeEnergy",
-        "project_name": "Energy Efficiency",
+        "project_name": "Efficiency",
+        "area":"Industry",
         "description": "Lifestile",
         "resources_used": ["JavaScript", "Node.js", "GitHub API"],
         "start_date": "June 2009",
@@ -221,6 +222,7 @@
         "use_git_api": true,
         "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/prayconnect",
         "project_name": "Pray Connections",
+        "area":"Full Stack",
         "description": "Making the pray request find a prayers network  ",
         "resources_used": ["HTML", "React-native.js"],
         "start_date": "Dec 2022",
@@ -242,6 +244,7 @@
         "use_git_api": true,
         "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/searchEngine",
         "project_name": "searchEngine",
+        "area":"AI",
         "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
         "resources_used": [
           "Python",

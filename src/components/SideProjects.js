@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import contentData from "../content.json";
-import { FaGithub, FaDownload, FaFilePdf } from "react-icons/fa";
-import { FiExternalLink, FiFolder } from "react-icons/fi";
+import { FaGithub, FaDownload, FaFilePdf,FaIndustry ,FaRobot,FaCanadianMapleLeaf} from "react-icons/fa";
+import { FiExternalLink, FiFolder , FiLayers, FiSend } from "react-icons/fi";
 import { Fade } from "react-awesome-reveal";
 import ReactMarkdown from "react-markdown";
 
@@ -177,7 +177,15 @@ const SideProjects = () => {
                       <div className="card-category-box"></div>
                       <div>
                         <h1 className="folder-icon">
-                          <FiFolder />
+                          {project.area === 'Industry' ? (
+                            <FaCanadianMapleLeaf size={30} />
+                          ) : project.area === 'Full Stack' ? (
+                            <FiLayers size={30} />
+                          ) : project.area === 'AI' ? (
+                            <FiSend size={30} />
+                          ) : (
+                            <FiFolder size={30} /> // default icon
+                          )}
                         </h1>
                       </div>
                       <h3 className="card-title">
