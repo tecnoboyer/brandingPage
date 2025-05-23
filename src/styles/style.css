@@ -1114,3 +1114,95 @@ footer a:hover {
   color: var(--smoke);
   transition: all 1s ease;
 }
+
+
+/* SIDE PROJECTS */
+/* Project Detail Page */
+.card-project-detail {
+  margin-bottom: 30px;
+  border: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.project-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.project-icon {
+  margin-right: 20px;
+  color: #0078ff;
+}
+
+.project-meta {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-dates {
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.project-area.badge {
+  background: #0078ff;
+  color: white;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  align-self: flex-start;
+  margin-top: 5px;
+}
+
+.project-subtitle {
+  color: #0078ff;
+  margin: 20px 0 10px;
+}
+
+.project-technologies {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.tech-badge {
+  background: #f8f9fa;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  border: 1px solid #dee2e6;
+}
+
+.project-links {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.project-link {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #0078ff;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.project-link:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.btn-back {
+  background: transparent;
+  border: none;
+  color: #0078ff;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+.btn-back:hover {
+  text-decoration: underline;
+}

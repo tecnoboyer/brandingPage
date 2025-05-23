@@ -9,6 +9,7 @@ import SideProjects from "./components/SideProjects";
 import Footer from "./components/Footer";
 import ResumePage from "./components/Resume";
 import Error404 from "./components/Error404";
+import ProjectDetail from "./components/ProjectDetail";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -40,6 +41,7 @@ function App() {
           }
         ></Route>
         <Route path="/resume" element={<ResumePage />} />
+        <Route path="/projects/:projectId" element={<ProjectDetail />} />
         <Route path="*" element={<Error404 />} />
       </Routes>
     </Router>

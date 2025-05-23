@@ -202,6 +202,7 @@
     },
     "project_items": [
       {
+        "id": "efficiency",
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tecnoboyer/homeEnergy",
         "project_name": "Efficiency",
@@ -219,6 +220,7 @@
         ]
       },
       {
+        "id": "Prayconnection",
         "use_git_api": true,
         "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/prayconnect",
         "project_name": "Pray Connections",
@@ -241,6 +243,7 @@
         ]
       },
       {
+        "id": "ai",
         "use_git_api": true,
         "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/searchEngine",
         "project_name": "searchEngine",
