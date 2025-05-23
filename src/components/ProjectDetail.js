@@ -4,6 +4,7 @@ import { FaGithub, FaDownload, FaFilePdf, FaCanadianMapleLeaf } from "react-icon
 import { FiExternalLink, FiFolder, FiLayers, FiSend } from "react-icons/fi";
 import ReactMarkdown from "react-markdown";
 
+
 const ProjectDetail = () => {
   const { projectId } = useParams();
   const navigate = useNavigate();
