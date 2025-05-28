@@ -171,9 +171,10 @@
         "location":"Ancaster, Ontario, Canada",
         "end_date": " January 2025",
         "description": [
-          "Initiated and managed lean manufacturing projects, ensuring adherence to timelines and achieving significant improvements in shop floor efficiency.",
-          "Developed Lean audits and scheduling, enhancing the auditing system and conducting 89 audits.",
-          "Implemented visual management standards and 5S principles, resulting in streamlined processes and improved standards." 
+        "Led lean maintenance projects focused on continuous improvement in industrial environments.",
+        "Conducted 89 lean audits, identifying equipment inefficiencies and supporting corrective actions.",
+        "Coordinated training for 400+ staff on efficient workplace organization and equipment handling.",
+        "Worked directly with vendors and internal teams on systems implementation and scheduling."
         ]
       },
       {
@@ -198,7 +199,7 @@
       "enable_section": true,
       "title": "~/Projects",
       "navbar_name": "/Projects",
-      "description": "Some of my most recent or past favorite creations or work."
+      "description": "Empowering People and Industries."
     },
     "project_items": [
       {
@@ -206,9 +207,9 @@
         "use_git_api": true,
         "api_github_repo_link": "https://github.com/tecnoboyer/homeEnergy",
         "project_name": "Efficiency",
-        "area":"Industry",
+        "area":"Industry + Personal Growth",
         "description": "Lifestile",
-        "resources_used": ["JavaScript", "Node.js", "GitHub API"],
+        "resources_used": ["Lean Principles","Six Sigma","AI Automation","Prompt Engineering", "Time & Workflow Tracking"],
         "start_date": "June 2009",
         "end_date": "Currently",
         "links": [
@@ -225,8 +226,8 @@
         "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/prayconnect",
         "project_name": "Pray Connections",
         "area":"Full Stack",
-        "description": "Making the pray request find a prayers network  ",
-        "resources_used": ["HTML", "React-native.js"],
+        "description": "Making the pray request find a prayers network and support",
+        "resources_used": [ "React-native.js"],
         "start_date": "Dec 2022",
         "end_date": "Present",
         "links": [
@@ -243,16 +244,14 @@
         ]
       },
       {
-        "id": "ai",
+        "id": "AI",
         "use_git_api": true,
         "api_github_repo_link": "https://api.github.com/repos/tecnoboyer/searchEngine",
-        "project_name": "searchEngine",
+        "project_name": "Personal readines",
         "area":"AI",
-        "description": "An e-portfolio built with React.js that utilizes GitHub API. Designed for public use and easy configuration. The second iteration of my website.",
+        "description": "Empowering people with AI and Lean skills",
         "resources_used": [
-          "Python",
-          "OpenAI"
-          
+          "Generative Pre-trained Transformer","Prompt Engineering"         
         ],
         "start_date": "Sept 2023",
         "end_date": "Present",

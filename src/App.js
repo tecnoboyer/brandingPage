@@ -11,6 +11,7 @@ import ResumePage from "./components/Resume";
 import Error404 from "./components/Error404";
 import ProjectDetail from "./components/ProjectDetail";
 import EfficiencyProject from "./components/EfficiencyProject";
+import PersonalReadiness from "./components/PersonalReadiness";
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -43,7 +44,7 @@ function App() {
         ></Route>
         <Route path="/projects/efficiency" element={<EfficiencyProject />} />
         <Route path="/resume" element={<ResumePage />} />
-        <Route path="/projects/:projectId" element={<ProjectDetail />} />
+        <Route path="/projects/ai" element={<PersonalReadiness />} />
         <Route path="*" element={<Error404 />} />
       </Routes>
     </Router>

@@ -19,9 +19,9 @@ const EfficiencyProject = () => {
       </button>
 
       <div className="header">
-        <h1><FaIndustry /> Lean Manufacturing & 5S Efficiency Framework</h1>
-        <p>Data-Driven Process Improvement for Modern Organizations</p>
-      </div>
+        <h1><FaIndustry /> Intelligent Efficiency Framework for Industry 5.0</h1>
+        <p>AI-Powered Performance Optimization for the Connected Enterprise</p>
+              </div>
       
       <div className="framework-grid">
         {/* Spectrum Analysis */}
@@ -29,7 +29,7 @@ const EfficiencyProject = () => {
           <div className="card-header">
             <div className="card-icon icon-sort"><FaChartLine /></div>
             <div>
-              <div className="card-title">1. SPECTRUM ANALYSIS</div>
+              <div className="card-title">1. UNDERSTAND FIRST</div>
               <small>Data-Driven Process Understanding</small>
             </div>
           </div>
@@ -50,7 +50,7 @@ const EfficiencyProject = () => {
           <div className="card-header">
             <div className="card-icon icon-order"><FaListOl /></div>
             <div>
-              <div className="card-title">2. PRIORITIZATION & ORDER</div>
+              <div className="card-title">2. CREATE CLARITY</div>
               <small>Strategic Improvement Planning</small>
             </div>
           </div>
@@ -71,7 +71,7 @@ const EfficiencyProject = () => {
           <div className="card-header">
             <div className="card-icon icon-shine"><FaEye /></div>
             <div>
-              <div className="card-title">3. VISUALIZATION TOOLS</div>
+              <div className="card-title">3. VISUALIZATION</div>
               <small>Clear Target Communication</small>
             </div>
           </div>
@@ -92,7 +92,7 @@ const EfficiencyProject = () => {
           <div className="card-header">
             <div className="card-icon icon-standard"><FaCogs /></div>
             <div>
-              <div className="card-title">4. STANDARDIZATION</div>
+              <div className="card-title">4. SMART YOUR PROCESS</div>
               <small>IT-Enabled Process Consistency</small>
             </div>
           </div>
@@ -113,7 +113,7 @@ const EfficiencyProject = () => {
           <div className="card-header">
             <div className="card-icon icon-sustain"><FaRocket /></div>
             <div>
-              <div className="card-title">5. SUBSTANTIATION</div>
+              <div className="card-title">5. HARVEST AND MORE</div>
               <small>Leadership-Driven Continuous Improvement</small>
             </div>
           </div>
@@ -132,29 +132,30 @@ const EfficiencyProject = () => {
       
       {/* 5S Implementation Framework */}
       <div className="five-s-section">
-        <h2><GiFactory /> 5S Implementation Framework</h2>
+        <h2><GiFactory /> Core Operational Excellence Pillars</h2>
         <div className="five-s-grid">
           <div className="five-s-item">
-            <h4>SORT (Seiri)</h4>
-            <p>Eliminate unnecessary items using data analysis</p>
+            <h4>Resource Optimization</h4>
+            <p>Utilize real-time data to eliminate low-value assets and processes.</p>
           </div>
           <div className="five-s-item">
-            <h4>SET IN ORDER (Seiton)</h4>
-            <p>Organize based on usage frequency data</p>
+            <h4>Flow Structuring</h4>
+            <p>Design systems and layouts driven by AI-prioritized workflows.</p>
           </div>
           <div className="five-s-item">
-            <h4>SHINE (Seiso)</h4>
-            <p>Clean and inspect with digital checklists</p>
+            <h4>Operational Transparency</h4>
+            <p>Deploy visual health dashboards and anomaly detection tools.</p>
           </div>
           <div className="five-s-item">
-            <h4>STANDARDIZE (Seiketsu)</h4>
-            <p>Create IT-enabled standard procedures</p>
+            <h4>Digital Standardization</h4>
+            <p>Empower teams with dynamic SOPs and AI-guided compliance systems.</p>
           </div>
           <div className="five-s-item">
-            <h4>SUSTAIN (Shitsuke)</h4>
-            <p>Maintain through gamification and metrics</p>
+            <h4>Performance Continuity</h4>
+            <p>Leverage metrics and leadership insights to fuel adaptive improvement cycles.</p>
           </div>
         </div>
+
       </div>
       
       {/* 8 Wastes Identification System */}
@@ -198,8 +199,9 @@ const EfficiencyProject = () => {
       
       {/* Call to Action */}
       <div className="call-to-action">
-        <h3>🚀 Ready to Transform Your Organization?</h3>
-        <p>This framework provides the structure to implement data-driven lean manufacturing and 5S practices across shop floor, engineering, and corporate teams.</p>
+        <h3>🚀 Ready to Embrace Intelligent Industrial Efficiency?</h3>
+        <p>Modern organizations can no longer rely on analog processes. Let’s use AI, automation, and system design to unlock performance across your production and operations landscape.</p>
+
       </div>
 
       {/* Add the corresponding CSS */}

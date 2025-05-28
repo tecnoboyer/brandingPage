@@ -98,7 +98,7 @@ const SideProjects = () => {
                         <div className="card-category-box"></div>
                         <div>
                           <h1 className="folder-icon">
-                            {project.area === 'Industry' ? (
+                            {project.area === 'Industry + Personal Growth' ? (
                               <FaCanadianMapleLeaf size={30} />
                             ) : project.area === 'Full Stack' ? (
                               <FiLayers size={30} />

@@ -46,7 +46,7 @@ const ProjectDetail = () => {
           <div className="card">
             <div className="card-body">
               <div className="d-flex align-items-center mb-4">
-                {project.area === 'Industry' ? (
+                {project.area === 'Industry + Personal Growth' ? (
                   <FaCanadianMapleLeaf size={40} className="me-3 text-primary" />
                 ) : project.area === 'Full Stack' ? (
                   <FiLayers size={40} className="me-3 text-primary" />
